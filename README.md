@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ZimaAli
-- 👀 I’am interested in programming
+- 👀 Ctrl+C, Ctrl+V+Success
+- 
 
 <!---
 ZimaAli/ZimaAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
